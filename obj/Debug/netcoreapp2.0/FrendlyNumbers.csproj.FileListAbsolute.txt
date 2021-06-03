@@ -1,0 +1,11 @@
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\bin\Debug\netcoreapp2.0\FrendlyNumbers.deps.json
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\bin\Debug\netcoreapp2.0\FrendlyNumbers.runtimeconfig.json
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\bin\Debug\netcoreapp2.0\FrendlyNumbers.runtimeconfig.dev.json
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\bin\Debug\netcoreapp2.0\FrendlyNumbers.dll
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\bin\Debug\netcoreapp2.0\FrendlyNumbers.pdb
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\obj\Debug\netcoreapp2.0\FrendlyNumbers.csprojAssemblyReference.cache
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\obj\Debug\netcoreapp2.0\FrendlyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\obj\Debug\netcoreapp2.0\FrendlyNumbers.AssemblyInfoInputs.cache
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\obj\Debug\netcoreapp2.0\FrendlyNumbers.AssemblyInfo.cs
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\obj\Debug\netcoreapp2.0\FrendlyNumbers.dll
+C:\Users\Homer\source\repos\FrendlyNumbers\FrendlyNumbers\obj\Debug\netcoreapp2.0\FrendlyNumbers.pdb
