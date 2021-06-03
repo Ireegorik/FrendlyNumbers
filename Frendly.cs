@@ -8,7 +8,7 @@ namespace FrendlyNumbers
 {
     class Frendly
     {
-        public static void GetFrendlies( int k)
+        public static void GetFrendlies(int k)
         {
             int firstSumm;
             int secondSumm;
